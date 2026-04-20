@@ -8,3 +8,5 @@ A RuneLite plugin to collapse right-click menus for multiple players into sub-me
 * Specifying the number of players needed to collapse menus
 * Automatic disabling of collapsed menus if in the Wilderness or PvP zones
 * Only enabling collapsed menus in high-traffic areas (Grand Exchange, Wintertodt, GotR, and Pest Control)
+
+<img width="236" height="348" alt="image" src="https://github.com/user-attachments/assets/c6a26a48-4c24-4208-97b5-b6e5de67cf8e" />
